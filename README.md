@@ -6,7 +6,7 @@
  
  🌱 I’m currently learning: React, MongoDB, Reactive Spring, AWS
  
- 👯 I’m looking to collaborate on Open Source projects
+ 👯 I’m looking to contribute to Open Source projects
  
  ⚡ Fun fact: I am a competative Ping Pong player
 
