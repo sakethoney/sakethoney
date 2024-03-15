@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Kumar Saket Hone
 
 <!--
 **sakethoney/sakethoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🔭 I’m currently working on Spring Boot 2, Micro-services
+ 🌱 I’m currently learning: React, MongoDB, Reactive Spring, AWS
+ 👯 I’m looking to collaborate on Open Source projects
+
+ 📫 How to reach me: 
+                   [![LinkedIn](https://example.com/linkedin_logo.png)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kumar-saket-honey-27a366a/))
+
+                   [![Twitter](https://example.com/twitter_logo.png)](https://twitter.com/[yourusername](https://twitter.com/sakethoney)https://twitter.com/sakethoney)
