@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Kumar Saket Honey
+<h1 align="center"> Hi there 👋 I'm Kumar Saket Honey <h1>
 Pronouns: He/Him/His 
 
 <!--
