@@ -19,6 +19,5 @@ Here are some ideas to get you started:
  👯 I’m looking to collaborate on Open Source projects
 
  📫 How to reach me: 
-                   [![LinkedIn](https://example.com/linkedin_logo.png)]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/kumar-saket-honey-27a366a/))
-
-                   [![Twitter](https://example.com/twitter_logo.png)](https://twitter.com/[yourusername](https://twitter.com/sakethoney)https://twitter.com/sakethoney)
+      [![LinkedIn](https://example.com/linkedin_logo.png)](https://www.linkedin.com/in/kumar-saket-honey-27a366a/))
+      [![Twitter](https://example.com/twitter_logo.png)](https://twitter.com/sakethoney)
