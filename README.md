@@ -1,6 +1,6 @@
-<h1 align="center"> Hi there 👋 I'm Kumar Saket Honey <h1>
+<h1 align="center"> Hi there 👋 I'm Kumar Saket Honey </h1>
 Pronouns: He/Him/His 
-
+<h3 align="center">14 years of IT experience with a proven record of success in developing complex software solutions. Excels at collaborating in a cross-functional environment, design and develop well-structured code. Experienced in working on client location and helped clients deliver solutions on demand. </h3>
 <!--
 **sakethoney/sakethoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
