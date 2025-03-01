@@ -11,7 +11,7 @@
  ⚡ Fun fact: I am a competative Ping Pong player.
 
  📫 How to reach me: 
-      saket.kumar.cs@gmail.com
+      saketkumarcs@outlook.com
       [![Twitter](https://example.com/twitter_logo.png)](https://twitter.com/sakethoney)
       [![LinkedIn](https://example.com/linkedin_logo.png)](https://www.linkedin.com/in/kumar-saket-honey-27a366a/)    
       
