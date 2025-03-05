@@ -15,5 +15,5 @@
       [![Twitter](https://example.com/twitter_logo.png)](https://twitter.com/sakethoney)
       [![LinkedIn](https://example.com/linkedin_logo.png)](https://www.linkedin.com/in/kumar-saket-honey-27a366a/)    
       
- I am currently 💻📱🧑🏠 Working from Home and looking for Open positions.
+ I am currently 💻📱🧑🏠 looking for Open positions.
 
